@@ -1,4 +1,3 @@
-
 def get_tree(f):
     with open(f,"r") as o:
         f=o.read()
