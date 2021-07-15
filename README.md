@@ -16,7 +16,6 @@ Suppose you are creating documentation of your module. You want make tree of the
 |----LASER(object)-----|
                        |---__init__(λ,location,direction,intensity)
                        |---fire()
-
 </pre>
 You will no longer handle that manually. Now, you can make it automatically.
 # How to use
